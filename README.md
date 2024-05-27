@@ -1,1 +1,5 @@
 # Airline-Passenger-Data
+<br>
+Improving passenger satisfaction is crucial for various reasons. Firstly, satisfied passengers are more likely to become loyal customers and recommend the services to others, leading to increased customer retention and positive word-of-mouth marketing. Secondly, analyzing passenger satisfaction data allows organizations to identify pain points and areas for improvement, enabling them to make data-driven decisions and enhance the overall passenger experience. By leveraging data to understand and address passenger needs, companies can strive for continuous improvement and maintain a competitive edge in the industry.
+
+The train dataset contains 103,904 instances and 25 attributes, of which 20 are quantitative input variables, 4 are qualitative input variables, and 1 qualitative output variable. The test dataset contains 25,976 instances and the same number of attributes as the train dataset. Furthermore, the dataset contains a total of 393 missing values and is in raw form.  
